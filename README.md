@@ -18,6 +18,12 @@ Este repositório contém arquivos desenvolvidos para o projeto **Projetos de Ex
 
 ---
 
+## 📊 Diagrama do Banco de Dados
+
+![Diagrama do Banco de Dados da Fórmula 1](F1_OpenAPI-diagram.jpg)
+
+---
+
 ## 📂 Arquivos
 
 ### `f1stats.sql`
@@ -29,6 +35,9 @@ Este arquivo contém a estrutura completa de um banco de dados relacional voltad
 - Dados de exemplo para simulação de análises reais.
 
 O banco foi modelado com foco em performance, integridade referencial e usabilidade analítica.
+
+
+
 
 ---
 
