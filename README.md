@@ -1,4 +1,4 @@
-# Projeto de Extensão Curricularizados 2025.1
+# Projeto de Extensão Curricularizado 2025.1
 
 Este repositório contém arquivos desenvolvidos para o **Projeto de Extensão Curricularizado 2025.1**, com foco na análise de dados da Fórmula 1 utilizando SQL e Excel. O projeto faz parte das disciplinas de **Administração de Banco de Dados** e **Estatística** tem como objetivo integrar práticas reais de análise estatística a partir de dados de corridas da Fórmula 1.
 
